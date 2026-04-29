@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Improved log message formatting
 - Reviewed open issues, added labels
+
+## 2026-04-29
+- Reorganised test fixtures
+- Reviewed codebase, identified areas for improvement
